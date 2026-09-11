@@ -74,12 +74,12 @@
           </div>
           <div>
             <span class="font-extrabold text-xl tracking-tight text-royal-900 block leading-tight">LAUNDRY<span class="text-brandOrange-500"> KILOAN</span></span>
-            <span class="text-[10px] text-slate-500 uppercase tracking-widest font-semibold block">Jasa Laundry Kiloan &amp; Satuan</span>
+            <span class="text-[10px] text-slate-500 uppercase tracking-widest font-semibold block"> Laundry Kiloan &amp; Satuan</span>
           </div>
         </a>
         <div class="hidden lg:flex items-center gap-7 text-sm font-bold text-slate-700">
           <a href="/" onclick="navigate('/'); return false;" class="hover:text-royal-600 transition py-1">Beranda</a>
-          <a href="/#jasa" onclick="scrollToId('jasa')" class="hover:text-royal-600 transition py-1">Jasa Laundry</a>
+          <a href="/#" onclick="scrollToId('jasa')" class="hover:text-royal-600 transition py-1">Jasa Laundry</a>
           <a href="/#wilayah" onclick="scrollToId('wilayah')" class="hover:text-royal-600 transition py-1">Wilayah Layanan</a>
           <a href="/#faq" onclick="scrollToId('faq')" class="hover:text-royal-600 transition py-1">FAQ</a>
           <a href="/#kontak" onclick="scrollToId('kontak')" class="hover:text-royal-600 transition py-1">Kontak</a>
@@ -549,10 +549,10 @@
       const wilayahName = chain ? deepestName(chain) : null;
       let title, desc;
       if (produk && wilayahName) {
-        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} Di ${wilayahName} - ${BRAND}`;
-        desc = `Jasa laundry kiloan ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
+        title = `${PHONE_DISPLAY} Jasa ${produk.nama} Di ${wilayahName} - ${BRAND}`;
+        desc = `Jasa ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
       } else if (produk) {
-        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} - ${BRAND}`;
+        title = `${PHONE_DISPLAY} Jasa ${produk.nama} - ${BRAND}`;
         desc = produk.deskripsi;
       } else if (wilayahName) {
         title = `${PHONE_DISPLAY} Jasa Laundry Kiloan & Satuan Di ${wilayahName} - ${BRAND}`;
