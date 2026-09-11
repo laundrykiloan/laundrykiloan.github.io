@@ -549,16 +549,16 @@
       const wilayahName = chain ? deepestName(chain) : null;
       let title, desc;
       if (produk && wilayahName) {
-        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} Di ${wilayahName} - ${BRAND}`;
-        desc = `Jasa laundry kiloan ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
+        title = `${PHONE_DISPLAY} Jasa Laundry ${produk.nama} Di ${wilayahName} - ${BRAND}`;
+        desc = `Jasa laundry ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
       } else if (produk) {
-        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} - ${BRAND}`;
+        title = `${PHONE_DISPLAY} Jasa Laundry  ${produk.nama} - ${BRAND}`;
         desc = produk.deskripsi;
       } else if (wilayahName) {
         title = `${PHONE_DISPLAY} Jasa Laundry Kiloan & Satuan Di ${wilayahName} - ${BRAND}`;
         desc = `Layanan laundry kiloan dan satuan terpercaya, melayani hingga ke ${fullChainLabel(chain)}.`;
       } else {
-        title = `${PHONE_DISPLAY} Jasa Laundry Kiloan Dan Satuan Nasional Seluruh Indonesia - ${BRAND}`;
+        title = `${PHONE_DISPLAY} Jasa Laundry Kiloan Dan Satuan Di Seluruh Indonesia - ${BRAND}`;
         desc = `Layanan laundry kiloan dan satuan profesional. Melayani pencucian dan antar-jemput hingga tingkat desa/kelurahan di seluruh Indonesia.`;
       }
       document.getElementById('page-title').innerText = title;
