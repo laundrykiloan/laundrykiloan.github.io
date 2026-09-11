@@ -1,7 +1,7 @@
 [
   {
-    "slug": "laundry-kiloan-reguler",
-    "nama": "Laundry Kiloan Reguler",
+    "slug": "reguler",
+    "nama": "Reguler",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 7000,
     "ukuran": "per kg (min. 3 kg)",
@@ -15,8 +15,8 @@
     ]
   },
   {
-    "slug": "laundry-kiloan-express",
-    "nama": "Laundry Kiloan Express",
+    "slug": "express",
+    "nama": "Express",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 10000,
     "ukuran": "per kg (min. 3 kg)",
@@ -30,8 +30,8 @@
     ]
   },
   {
-    "slug": "laundry-kiloan-kilat",
-    "nama": "Laundry Kiloan Kilat",
+    "slug": "kilat",
+    "nama": "Kilat",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 15000,
     "ukuran": "per kg (min. 3 kg)",
@@ -45,8 +45,8 @@
     ]
   },
   {
-    "slug": "jasa-setrika-saja",
-    "nama": "Jasa Setrika Saja",
+    "slug": "setrika-saja",
+    "nama": "Setrika Saja",
     "kategori": "Layanan Penyetrikaan",
     "harga": 4000,
     "ukuran": "per kg (min. 3 kg)",
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "slug": "jasa-laundry-cuci-basah",
-    "nama": "Jasa Laundry Cuci Basah",
+    "slug": "cuci-basah",
+    "nama": "Cuci Basah",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 3500,
     "ukuran": "per kg (min. 3 kg)",
@@ -75,8 +75,8 @@
     ]
   },
   {
-    "slug": "laundry-cuci-kering-lipat",
-    "nama": "Laundry Cuci Kering Lipat",
+    "slug": "cuci-kering-lipat",
+    "nama": "Cuci Kering Lipat",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 5000,
     "ukuran": "per kg (min. 3 kg)",
