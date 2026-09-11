@@ -200,7 +200,7 @@
     async function loadProduk() {
       if (produkLoaded) return;
       try {
-        const res = await fetch('https://laundrykiloan.github.io/data/jasalaundry.json');
+        const res = await fetch('/jasalaundry.json');
         dataProduk = await res.json();
       } catch (e) {
         dataProduk = [];
