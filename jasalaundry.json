@@ -1906,7 +1906,7 @@
   },
   {
     "slug": "gaun-panjang",
-    "nama": "Gaun Panjang",
+    "nama": "Laundry Gaun Panjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1921,7 +1921,7 @@
   },
   {
     "slug": "gaun-panjang-anak",
-    "nama": "Gaun Panjang Anak",
+    "nama": "Laundry Gaun Panjang Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1936,7 +1936,7 @@
   },
   {
     "slug": "gaun-pendek-selutut",
-    "nama": "Gaun Pendek (Selutut)",
+    "nama": "Laundry Gaun Pendek (Selutut)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1951,7 +1951,7 @@
   },
   {
     "slug": "gaun-pendek-anak",
-    "nama": "Gaun Pendek Anak",
+    "nama": "Laundry Gaun Pendek Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1966,7 +1966,7 @@
   },
   {
     "slug": "gaun-penganten-1",
-    "nama": "Gaun Penganten 1",
+    "nama": "Laundry Gaun Penganten 1",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 124000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1981,7 +1981,7 @@
   },
   {
     "slug": "gaun-penganten-2a",
-    "nama": "Gaun Penganten 2A",
+    "nama": "Laundry Gaun Penganten 2A",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 96500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -1996,7 +1996,7 @@
   },
   {
     "slug": "gaun-penganten-2b",
-    "nama": "Gaun Penganten 2B",
+    "nama": "Laundry Gaun Penganten 2B",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 83000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2011,7 +2011,7 @@
   },
   {
     "slug": "gaun-penganten-3",
-    "nama": "Gaun Penganten 3",
+    "nama": "Laundry Gaun Penganten 3",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 62500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2026,7 +2026,7 @@
   },
   {
     "slug": "gaun-pesta-biasa",
-    "nama": "Gaun Pesta Biasa",
+    "nama": "Laundry Gaun Pesta Biasa",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2041,7 +2041,7 @@
   },
   {
     "slug": "gaun-pesta-variasi",
-    "nama": "Gaun Pesta Variasi",
+    "nama": "Laundry Gaun Pesta Variasi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 41500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2056,7 +2056,7 @@
   },
   {
     "slug": "gendongan",
-    "nama": "Gendongan",
+    "nama": "Laundry Gendongan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2071,7 +2071,7 @@
   },
   {
     "slug": "gorden-per-meter",
-    "nama": "Gorden Per Meter",
+    "nama": "Laundry Gorden Per Meter",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2086,7 +2086,7 @@
   },
   {
     "slug": "guling",
-    "nama": "Guling",
+    "nama": "Laundry Guling",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2101,7 +2101,7 @@
   },
   {
     "slug": "guling-bayi",
-    "nama": "Guling Bayi",
+    "nama": "Laundry Guling Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 10000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2116,7 +2116,7 @@
   },
   {
     "slug": "gurita",
-    "nama": "Gurita",
+    "nama": "Laundry Gurita",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2131,7 +2131,7 @@
   },
   {
     "slug": "handuk-besar",
-    "nama": "Handuk Besar",
+    "nama": "Laundry Handuk Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2146,7 +2146,7 @@
   },
   {
     "slug": "handuk-kecil",
-    "nama": "Handuk Kecil",
+    "nama": "Laundry Handuk Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2161,7 +2161,7 @@
   },
   {
     "slug": "handuk-sedang",
-    "nama": "Handuk Sedang",
+    "nama": "Laundry Handuk Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 10000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2175,8 +2175,8 @@
     ]
   },
   {
-    "slug": "jaketsweater",
-    "nama": "Jaket/Sweater",
+    "slug": "jaket-sweater",
+    "nama": "Laundry Jaket/Sweater",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2190,8 +2190,8 @@
     ]
   },
   {
-    "slug": "jaketsweater-anak",
-    "nama": "Jaket/Sweater Anak",
+    "slug": "jaket-sweater-anak",
+    "nama": "Laundry Jaket/Sweater Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2206,7 +2206,7 @@
   },
   {
     "slug": "jaket-kulit",
-    "nama": "Jaket Kulit",
+    "nama": "Laundry Jaket Kulit",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 72000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2221,7 +2221,7 @@
   },
   {
     "slug": "jaket-kulit-anak",
-    "nama": "Jaket Kulit Anak",
+    "nama": "Laundry Jaket Kulit Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2236,7 +2236,7 @@
   },
   {
     "slug": "jas",
-    "nama": "Jas",
+    "nama": "Laundry Jas",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2251,7 +2251,7 @@
   },
   {
     "slug": "jas-anak",
-    "nama": "Jas Anak",
+    "nama": "Laundry Jas Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2265,8 +2265,8 @@
     ]
   },
   {
-    "slug": "jassweater-panjang",
-    "nama": "Jas/Sweater Panjang",
+    "slug": "jas-sweater-panjang",
+    "nama": "Laundry Jas/Sweater Panjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2281,7 +2281,7 @@
   },
   {
     "slug": "jas-pria",
-    "nama": "Jas Pria",
+    "nama": "Laundry Jas Pria",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2296,7 +2296,7 @@
   },
   {
     "slug": "jubah",
-    "nama": "Jubah",
+    "nama": "Laundry Jubah",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2311,7 +2311,7 @@
   },
   {
     "slug": "kain",
-    "nama": "Kain",
+    "nama": "Laundry Kain",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2325,8 +2325,8 @@
     ]
   },
   {
-    "slug": "kainaksesoris",
-    "nama": "Kain/Aksesoris",
+    "slug": "kain-aksesoris",
+    "nama": "Laundry Kain/Aksesoris",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2341,7 +2341,7 @@
   },
   {
     "slug": "kain-box-bayi",
-    "nama": "Kain Box Bayi",
+    "nama": "Laundry Kain Box Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2356,7 +2356,7 @@
   },
   {
     "slug": "kain-gendongan-bayi",
-    "nama": "Kain Gendongan Bayi",
+    "nama": "Laundry Kain Gendongan Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2371,7 +2371,7 @@
   },
   {
     "slug": "kain-panjang-batik",
-    "nama": "Kain Panjang Batik",
+    "nama": "Laundry Kain Panjang Batik",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2386,7 +2386,7 @@
   },
   {
     "slug": "kain-pantai",
-    "nama": "Kain Pantai",
+    "nama": "Laundry Kain Pantai",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2401,7 +2401,7 @@
   },
   {
     "slug": "kain-payung-besar",
-    "nama": "Kain Payung Besar",
+    "nama": "Laundry Kain Payung Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2416,7 +2416,7 @@
   },
   {
     "slug": "kain-payung-kecil",
-    "nama": "Kain Payung Kecil",
+    "nama": "Laundry Kain Payung Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2431,7 +2431,7 @@
   },
   {
     "slug": "kain-payung-sedang",
-    "nama": "Kain Payung Sedang",
+    "nama": "Laundry Kain Payung Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2446,7 +2446,7 @@
   },
   {
     "slug": "kain-songket",
-    "nama": "Kain Songket",
+    "nama": "Laundry Kain Songket",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2461,7 +2461,7 @@
   },
   {
     "slug": "kain-ulos",
-    "nama": "Kain Ulos",
+    "nama": "Laundry Kain Ulos",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2476,7 +2476,7 @@
   },
   {
     "slug": "kain-per-m2",
-    "nama": "Kain Per M2",
+    "nama": "Laundry Kain Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2491,7 +2491,7 @@
   },
   {
     "slug": "kamisol",
-    "nama": "Kamisol",
+    "nama": "Laundry Kamisol",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2506,7 +2506,7 @@
   },
   {
     "slug": "kamisol-anak",
-    "nama": "Kamisol Anak",
+    "nama": "Laundry Kamisol Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2521,7 +2521,7 @@
   },
   {
     "slug": "kaos",
-    "nama": "Kaos",
+    "nama": "Laundry Kaos",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2536,7 +2536,7 @@
   },
   {
     "slug": "kaos-dalam-singlet",
-    "nama": "Kaos Dalam (Singlet)",
+    "nama": "Laundry Kaos Dalam (Singlet)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2551,7 +2551,7 @@
   },
   {
     "slug": "kaos-dalam-anak",
-    "nama": "Kaos Dalam Anak",
+    "nama": "Laundry Kaos Dalam Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2566,7 +2566,7 @@
   },
   {
     "slug": "kaos-kaki",
-    "nama": "Kaos Kaki",
+    "nama": "Laundry Kaos Kaki",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2581,7 +2581,7 @@
   },
   {
     "slug": "kaos-kaki-anak",
-    "nama": "Kaos Kaki Anak",
+    "nama": "Laundry Kaos Kaki Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 3000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2596,7 +2596,7 @@
   },
   {
     "slug": "kaos-kaki-bayi",
-    "nama": "Kaos Kaki Bayi",
+    "nama": "Laundry Kaos Kaki Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 1000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2611,7 +2611,7 @@
   },
   {
     "slug": "kaos-tangan-bayi",
-    "nama": "Kaos Tangan Bayi",
+    "nama": "Laundry Kaos Tangan Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 1000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2626,7 +2626,7 @@
   },
   {
     "slug": "kap-lampu-besar",
-    "nama": "Kap Lampu Besar",
+    "nama": "Laundry Kap Lampu Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2641,7 +2641,7 @@
   },
   {
     "slug": "kap-lampu-sedang",
-    "nama": "Kap Lampu Sedang",
+    "nama": "Laundry Kap Lampu Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2656,7 +2656,7 @@
   },
   {
     "slug": "karpet-lukisan",
-    "nama": "Karpet Lukisan",
+    "nama": "Laundry Karpet Lukisan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2671,7 +2671,7 @@
   },
   {
     "slug": "karpet-sedang-per-m2",
-    "nama": "Karpet Sedang Per M2",
+    "nama": "Laundry Karpet Sedang Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2686,7 +2686,7 @@
   },
   {
     "slug": "karpet-sumbu-per-m2",
-    "nama": "Karpet Sumbu Per M2",
+    "nama": "Laundry Karpet Sumbu Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 23000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2701,7 +2701,7 @@
   },
   {
     "slug": "karpet-tebal-per-m2",
-    "nama": "Karpet Tebal Per M2",
+    "nama": "Laundry Karpet Tebal Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2716,7 +2716,7 @@
   },
   {
     "slug": "karpet-tipis-per-m2",
-    "nama": "Karpet Tipis Per M2",
+    "nama": "Laundry Karpet Tipis Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2731,7 +2731,7 @@
   },
   {
     "slug": "karpet-wool-per-m2",
-    "nama": "Karpet Wool Per M2",
+    "nama": "Laundry Karpet Wool Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2746,7 +2746,7 @@
   },
   {
     "slug": "kasur-busa-besar",
-    "nama": "Kasur Busa Besar",
+    "nama": "Laundry Kasur Busa Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 50500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2761,7 +2761,7 @@
   },
   {
     "slug": "kasur-busa-double",
-    "nama": "Kasur Busa Double",
+    "nama": "Laundry Kasur Busa Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 55000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2776,7 +2776,7 @@
   },
   {
     "slug": "kasur-busa-kecil",
-    "nama": "Kasur Busa Kecil",
+    "nama": "Laundry Kasur Busa Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 36000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2791,7 +2791,7 @@
   },
   {
     "slug": "kasur-busa-keranjang",
-    "nama": "Kasur Busa Keranjang",
+    "nama": "Laundry Kasur Busa Keranjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2806,7 +2806,7 @@
   },
   {
     "slug": "kasur-busa-single",
-    "nama": "Kasur Busa Single",
+    "nama": "Laundry Kasur Busa Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 48500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2821,7 +2821,7 @@
   },
   {
     "slug": "kasur-dakron-besar",
-    "nama": "Kasur Dakron Besar",
+    "nama": "Laundry Kasur Dakron Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 50500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2836,7 +2836,7 @@
   },
   {
     "slug": "kasur-dakron-sedang",
-    "nama": "Kasur Dakron Sedang",
+    "nama": "Laundry Kasur Dakron Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 43000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2851,7 +2851,7 @@
   },
   {
     "slug": "kasur-palembang-besar",
-    "nama": "Kasur Palembang Besar",
+    "nama": "Laundry Kasur Palembang Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 50500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2866,7 +2866,7 @@
   },
   {
     "slug": "kasur-palembang-double",
-    "nama": "Kasur Palembang Double",
+    "nama": "Laundry Kasur Palembang Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 48500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2881,7 +2881,7 @@
   },
   {
     "slug": "kasur-palembangg-sedang",
-    "nama": "Kasur Palembangg Sedang",
+    "nama": "Laundry Kasur Palembangg Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 43000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2896,7 +2896,7 @@
   },
   {
     "slug": "kasur-palembang-single",
-    "nama": "Kasur Palembang Single",
+    "nama": "Laundry Kasur Palembang Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 41500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2911,7 +2911,7 @@
   },
   {
     "slug": "kassa-nyamuk",
-    "nama": "Kassa Nyamuk",
+    "nama": "Laundry Kassa Nyamuk",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2926,7 +2926,7 @@
   },
   {
     "slug": "kebaya-anak",
-    "nama": "Kebaya Anak",
+    "nama": "Laundry Kebaya Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2941,7 +2941,7 @@
   },
   {
     "slug": "kebaya-panjang",
-    "nama": "Kebaya Panjang",
+    "nama": "Laundry Kebaya Panjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2956,7 +2956,7 @@
   },
   {
     "slug": "kebaya-panjang-anak",
-    "nama": "Kebaya Panjang Anak",
+    "nama": "Laundry Kebaya Panjang Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2971,7 +2971,7 @@
   },
   {
     "slug": "kebaya-pendek",
-    "nama": "Kebaya Pendek",
+    "nama": "Laundry Kebaya Pendek",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -2986,7 +2986,7 @@
   },
   {
     "slug": "kebaya-pendek-anak",
-    "nama": "Kebaya Pendek Anak",
+    "nama": "Laundry Kebaya Pendek Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3001,7 +3001,7 @@
   },
   {
     "slug": "kelambu-bayi",
-    "nama": "Kelambu Bayi",
+    "nama": "Laundry Kelambu Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3016,7 +3016,7 @@
   },
   {
     "slug": "kelambu-tempat-tidur-besar",
-    "nama": "Kelambu Tempat Tidur Besar",
+    "nama": "Laundry Kelambu Tempat Tidur Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 46000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3031,7 +3031,7 @@
   },
   {
     "slug": "kelambu-tempat-tidur-kecil",
-    "nama": "Kelambu Tempat Tidur Kecil",
+    "nama": "Laundry Kelambu Tempat Tidur Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3046,7 +3046,7 @@
   },
   {
     "slug": "kelambu-tempat-tidur-sedang",
-    "nama": "Kelambu Tempat Tidur Sedang",
+    "nama": "Laundry Kelambu Tempat Tidur Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3061,7 +3061,7 @@
   },
   {
     "slug": "kemben",
-    "nama": "Kemben",
+    "nama": "Laundry Kemben",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3076,7 +3076,7 @@
   },
   {
     "slug": "kemeja-baju-koko",
-    "nama": "Kemeja/ Baju Koko",
+    "nama": "Laundry Kemeja/ Baju Koko",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3091,7 +3091,7 @@
   },
   {
     "slug": "kemeja-anak",
-    "nama": "Kemeja Anak",
+    "nama": "Laundry Kemeja Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3106,7 +3106,7 @@
   },
   {
     "slug": "keranjang-bayi",
-    "nama": "Keranjang Bayi",
+    "nama": "Laundry Keranjang Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 25000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3121,7 +3121,7 @@
   },
   {
     "slug": "kereta-bayi-besar",
-    "nama": "Kereta Bayi Besar",
+    "nama": "Laundry Kereta Bayi Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 68000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3136,7 +3136,7 @@
   },
   {
     "slug": "kereta-bayi-kecil",
-    "nama": "Kereta Bayi Kecil",
+    "nama": "Laundry Kereta Bayi Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 53500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3151,7 +3151,7 @@
   },
   {
     "slug": "kerudung",
-    "nama": "Kerudung",
+    "nama": "Laundry Kerudung",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3166,7 +3166,7 @@
   },
   {
     "slug": "keset",
-    "nama": "Keset",
+    "nama": "Laundry Keset",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3181,7 +3181,7 @@
   },
   {
     "slug": "keset-tebal",
-    "nama": "Keset Tebal",
+    "nama": "Laundry Keset Tebal",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3196,7 +3196,7 @@
   },
   {
     "slug": "keset-tipis",
-    "nama": "Keset Tipis",
+    "nama": "Laundry Keset Tipis",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3211,7 +3211,7 @@
   },
   {
     "slug": "kimono",
-    "nama": "Kimono",
+    "nama": "Laundry Kimono",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3226,7 +3226,7 @@
   },
   {
     "slug": "kuda-kudaan",
-    "nama": "Kuda-Kudaan",
+    "nama": "Laundry Kuda-Kudaan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 41500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3241,7 +3241,7 @@
   },
   {
     "slug": "kupu-kupu-aksesoris",
-    "nama": "Kupu-Kupu Aksesoris",
+    "nama": "Laundry Kupu-Kupu Aksesoris",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3256,7 +3256,7 @@
   },
   {
     "slug": "kursi-kantor",
-    "nama": "Kursi Kantor",
+    "nama": "Laundry Kursi Kantor",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 62500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3271,7 +3271,7 @@
   },
   {
     "slug": "kursi-salon",
-    "nama": "Kursi Salon",
+    "nama": "Laundry Kursi Salon",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3285,8 +3285,8 @@
     ]
   },
   {
-    "slug": "kutangbh",
-    "nama": "Kutang/Bh",
+    "slug": "kutang-bh",
+    "nama": "Laundry Kutang/Bh",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3301,7 +3301,7 @@
   },
   {
     "slug": "landung",
-    "nama": "Landung",
+    "nama": "Laundry Landung",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3316,7 +3316,7 @@
   },
   {
     "slug": "list-gorden-per-m2",
-    "nama": "List Gorden Per M2",
+    "nama": "Laundry List Gorden Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3331,7 +3331,7 @@
   },
   {
     "slug": "list-gorden-lengkung-panjang",
-    "nama": "List Gorden Lengkung Panjang",
+    "nama": "Laundry List Gorden Lengkung Panjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3346,7 +3346,7 @@
   },
   {
     "slug": "list-lengkung-kecil",
-    "nama": "List Lengkung Kecil",
+    "nama": "Laundry List Lengkung Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3361,7 +3361,7 @@
   },
   {
     "slug": "list-lengkung-sedang",
-    "nama": "List Lengkung Sedang",
+    "nama": "Laundry List Lengkung Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3376,7 +3376,7 @@
   },
   {
     "slug": "list-vitrace-per-m2",
-    "nama": "List Vitrace Per M2",
+    "nama": "Laundry List Vitrace Per M2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3391,7 +3391,7 @@
   },
   {
     "slug": "long-torso-streples",
-    "nama": "Long Torso/ Streples",
+    "nama": "Laundry Long Torso/ Streples",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3406,7 +3406,7 @@
   },
   {
     "slug": "mantel",
-    "nama": "Mantel",
+    "nama": "Laundry Mantel",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3421,7 +3421,7 @@
   },
   {
     "slug": "mantel-panjang-overcoat",
-    "nama": "Mantel Panjang / Overcoat",
+    "nama": "Laundry Mantel Panjang / Overcoat",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3436,7 +3436,7 @@
   },
   {
     "slug": "masker",
-    "nama": "Masker",
+    "nama": "Laundry Masker",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3451,7 +3451,7 @@
   },
   {
     "slug": "matras-busa-besar",
-    "nama": "Matras Busa Besar",
+    "nama": "Laundry Matras Busa Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 33500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3466,7 +3466,7 @@
   },
   {
     "slug": "matras-busa-kecil",
-    "nama": "Matras Busa Kecil",
+    "nama": "Laundry Matras Busa Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3481,7 +3481,7 @@
   },
   {
     "slug": "matras-busa-sedang",
-    "nama": "Matras Busa Sedang",
+    "nama": "Laundry Matras Busa Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3496,7 +3496,7 @@
   },
   {
     "slug": "matras-springbed-double",
-    "nama": "Matras Springbed Double",
+    "nama": "Laundry Matras Springbed Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3511,7 +3511,7 @@
   },
   {
     "slug": "matras-springbed-single",
-    "nama": "Matras Springbed Single",
+    "nama": "Laundry Matras Springbed Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3526,7 +3526,7 @@
   },
   {
     "slug": "mukena-terusan",
-    "nama": "Mukena Terusan",
+    "nama": "Laundry Mukena Terusan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3541,7 +3541,7 @@
   },
   {
     "slug": "obi-pasangan-kimono",
-    "nama": "Obi Pasangan Kimono",
+    "nama": "Laundry Obi Pasangan Kimono",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3556,7 +3556,7 @@
   },
   {
     "slug": "overall",
-    "nama": "Overall",
+    "nama": "Laundry Overall",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3571,7 +3571,7 @@
   },
   {
     "slug": "overall-anak",
-    "nama": "Overall Anak",
+    "nama": "Laundry Overall Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3586,7 +3586,7 @@
   },
   {
     "slug": "overall-dewasa",
-    "nama": "Overall Dewasa",
+    "nama": "Laundry Overall Dewasa",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3601,7 +3601,7 @@
   },
   {
     "slug": "pakaian-badut",
-    "nama": "Pakaian Badut",
+    "nama": "Laundry Pakaian Badut",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 62500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3616,7 +3616,7 @@
   },
   {
     "slug": "pakaian-tidur-anak",
-    "nama": "Pakaian Tidur Anak",
+    "nama": "Laundry Pakaian Tidur Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3631,7 +3631,7 @@
   },
   {
     "slug": "pashmina",
-    "nama": "Pashmina",
+    "nama": "Laundry Pashmina",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3646,7 +3646,7 @@
   },
   {
     "slug": "payung",
-    "nama": "Payung",
+    "nama": "Laundry Payung",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3661,7 +3661,7 @@
   },
   {
     "slug": "peci",
-    "nama": "Peci",
+    "nama": "Laundry Peci",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3676,7 +3676,7 @@
   },
   {
     "slug": "pelampung-kecil",
-    "nama": "Pelampung Kecil",
+    "nama": "Laundry Pelampung Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3691,7 +3691,7 @@
   },
   {
     "slug": "pembungkus-bayi",
-    "nama": "Pembungkus Bayi",
+    "nama": "Laundry Pembungkus Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3706,7 +3706,7 @@
   },
   {
     "slug": "perlak",
-    "nama": "Perlak",
+    "nama": "Laundry Perlak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3721,7 +3721,7 @@
   },
   {
     "slug": "perlak-kecil",
-    "nama": "Perlak Kecil",
+    "nama": "Laundry Perlak Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3736,7 +3736,7 @@
   },
   {
     "slug": "pita",
-    "nama": "Pita",
+    "nama": "Laundry Pita",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 3000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3751,7 +3751,7 @@
   },
   {
     "slug": "piyama",
-    "nama": "Piyama",
+    "nama": "Laundry Piyama",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3766,7 +3766,7 @@
   },
   {
     "slug": "placemat",
-    "nama": "Placemat",
+    "nama": "Laundry Placemat",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 2500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3781,7 +3781,7 @@
   },
   {
     "slug": "popok-bayi",
-    "nama": "Popok Bayi",
+    "nama": "Laundry Popok Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3796,7 +3796,7 @@
   },
   {
     "slug": "renda-meja-makan",
-    "nama": "Renda Meja Makan",
+    "nama": "Laundry Renda Meja Makan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3811,7 +3811,7 @@
   },
   {
     "slug": "rok-panjang-di-bawah-lutut-dbl",
-    "nama": "Rok Panjang Di Bawah Lutut (Dbl)",
+    "nama": "Laundry Rok Panjang Di Bawah Lutut (Dbl)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3826,7 +3826,7 @@
   },
   {
     "slug": "rok-panjang-dbl-anak",
-    "nama": "Rok Panjang Dbl Anak",
+    "nama": "Laundry Rok Panjang Dbl Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3841,7 +3841,7 @@
   },
   {
     "slug": "rok-pendek-di-atas-lutut-dal",
-    "nama": "Rok Pendek Di Atas Lutut (Dal)",
+    "nama": "Laundry Rok Pendek Di Atas Lutut (Dal)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3856,7 +3856,7 @@
   },
   {
     "slug": "rok-pendek-dal-anak",
-    "nama": "Rok Pendek Dal Anak",
+    "nama": "Laundry Rok Pendek Dal Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3871,7 +3871,7 @@
   },
   {
     "slug": "rok-penganten-biasa",
-    "nama": "Rok Penganten Biasa",
+    "nama": "Laundry Rok Penganten Biasa",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3886,7 +3886,7 @@
   },
   {
     "slug": "rok-penganten-1",
-    "nama": "Rok Penganten 1",
+    "nama": "Laundry Rok Penganten 1",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 69000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3901,7 +3901,7 @@
   },
   {
     "slug": "rok-penganten-2",
-    "nama": "Rok Penganten 2",
+    "nama": "Laundry Rok Penganten 2",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 55000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3916,7 +3916,7 @@
   },
   {
     "slug": "rok-penganten-3",
-    "nama": "Rok Penganten 3",
+    "nama": "Laundry Rok Penganten 3",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3931,7 +3931,7 @@
   },
   {
     "slug": "rompi",
-    "nama": "Rompi",
+    "nama": "Laundry Rompi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3946,7 +3946,7 @@
   },
   {
     "slug": "rompi-anak",
-    "nama": "Rompi Anak",
+    "nama": "Laundry Rompi Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3961,7 +3961,7 @@
   },
   {
     "slug": "rompi-kulit",
-    "nama": "Rompi Kulit",
+    "nama": "Laundry Rompi Kulit",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 72000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3976,7 +3976,7 @@
   },
   {
     "slug": "rompi-kulit-anak",
-    "nama": "Rompi Kulit Anak",
+    "nama": "Laundry Rompi Kulit Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -3991,7 +3991,7 @@
   },
   {
     "slug": "sabuk-aksesoris",
-    "nama": "Sabuk/ Aksesoris",
+    "nama": "Laundry Sabuk/ Aksesoris",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4006,7 +4006,7 @@
   },
   {
     "slug": "sajadah",
-    "nama": "Sajadah",
+    "nama": "Laundry Sajadah",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 10000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4021,7 +4021,7 @@
   },
   {
     "slug": "sajadah-tebal",
-    "nama": "Sajadah Tebal",
+    "nama": "Laundry Sajadah Tebal",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4036,7 +4036,7 @@
   },
   {
     "slug": "sandal-pantofel",
-    "nama": "Sandal Pantofel",
+    "nama": "Laundry Sandal Pantofel",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4051,7 +4051,7 @@
   },
   {
     "slug": "sandal-jepit-aksesoris-anak",
-    "nama": "Sandal Jepit Aksesoris Anak",
+    "nama": "Laundry Sandal Jepit Aksesoris Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4066,7 +4066,7 @@
   },
   {
     "slug": "sandal-jepit-aksesoris",
-    "nama": "Sandal Jepit Aksesoris",
+    "nama": "Laundry Sandal Jepit Aksesoris",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4081,7 +4081,7 @@
   },
   {
     "slug": "sandal-kulit",
-    "nama": "Sandal Kulit",
+    "nama": "Laundry Sandal Kulit",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4096,7 +4096,7 @@
   },
   {
     "slug": "sandal-rumah-berbulu",
-    "nama": "Sandal Rumah (Berbulu)",
+    "nama": "SLaundry andal Rumah (Berbulu)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4111,7 +4111,7 @@
   },
   {
     "slug": "sandal-rumah-anak",
-    "nama": "Sandal Rumah Anak",
+    "nama": "Laundry Sandal Rumah Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4126,7 +4126,7 @@
   },
   {
     "slug": "sapu-tangan",
-    "nama": "Sapu Tangan",
+    "nama": "Laundry Sapu Tangan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4141,7 +4141,7 @@
   },
   {
     "slug": "sarung-bantal-besar",
-    "nama": "Sarung Bantal Besar",
+    "nama": "Laundry Sarung Bantal Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4156,7 +4156,7 @@
   },
   {
     "slug": "sarung-bantal-kursi",
-    "nama": "Sarung Bantal Kursi",
+    "nama": "Laundry Sarung Bantal Kursi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4171,7 +4171,7 @@
   },
   {
     "slug": "sarung-bantal-lantai",
-    "nama": "Sarung Bantal Lantai",
+    "nama": "Laundry Sarung Bantal Lantai",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4186,7 +4186,7 @@
   },
   {
     "slug": "sarung-bantalguling-polos",
-    "nama": "Sarung Bantal/Guling Polos",
+    "nama": "Laundry Sarung Bantal/Guling Polos",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4200,8 +4200,8 @@
     ]
   },
   {
-    "slug": "sarung-bantalguling-satin",
-    "nama": "Sarung Bantal/Guling Satin",
+    "slug": "sarung-bantal-guling-satin",
+    "nama": "Laundry Sarung Bantal/Guling Satin",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4215,8 +4215,8 @@
     ]
   },
   {
-    "slug": "sarung-bantalguling-satin-bayi",
-    "nama": "Sarung Bantal/Guling Satin Bayi",
+    "slug": "sarung-bantal-guling-satin-bayi",
+    "nama": "Laundry Sarung Bantal/Guling Satin Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4231,7 +4231,7 @@
   },
   {
     "slug": "sarung-biasa",
-    "nama": "Sarung Biasa",
+    "nama": "Laundry Sarung Biasa",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4246,7 +4246,7 @@
   },
   {
     "slug": "sarung-biasa-anak",
-    "nama": "Sarung Biasa Anak",
+    "nama": "Laundry Sarung Biasa Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4261,7 +4261,7 @@
   },
   {
     "slug": "sarung-kasur-busa-besar",
-    "nama": "Sarung Kasur Busa Besar",
+    "nama": "Laundry Sarung Kasur Busa Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4276,7 +4276,7 @@
   },
   {
     "slug": "sarung-kasur-busa-kecil",
-    "nama": "Sarung Kasur Busa Kecil",
+    "nama": "Laundry Sarung Kasur Busa Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4291,7 +4291,7 @@
   },
   {
     "slug": "sarung-palembang-benang-emas",
-    "nama": "Sarung Palembang Benang Emas",
+    "nama": "Laundry Sarung Palembang Benang Emas",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4306,7 +4306,7 @@
   },
   {
     "slug": "sarung-perseneling-mobil",
-    "nama": "Sarung Perseneling Mobil",
+    "nama": "Laundry Sarung Perseneling Mobil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4321,7 +4321,7 @@
   },
   {
     "slug": "sarung-sutra",
-    "nama": "Sarung Sutra",
+    "nama": "Laundry Sarung Sutra",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4336,7 +4336,7 @@
   },
   {
     "slug": "sarung-tangan",
-    "nama": "Sarung Tangan",
+    "nama": "Laundry Sarung Tangan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 3500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4351,7 +4351,7 @@
   },
   {
     "slug": "sarung-tangan-anak",
-    "nama": "Sarung Tangan Anak",
+    "nama": "Laundry Sarung Tangan Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4366,7 +4366,7 @@
   },
   {
     "slug": "sarung-tangan-balap",
-    "nama": "Sarung Tangan Balap",
+    "nama": "Laundry Sarung Tangan Balap",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4381,7 +4381,7 @@
   },
   {
     "slug": "sarung-tangan-kulit",
-    "nama": "Sarung Tangan Kulit",
+    "nama": "Laundry Sarung Tangan Kulit",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4396,7 +4396,7 @@
   },
   {
     "slug": "sarung-tenun",
-    "nama": "Sarung Tenun",
+    "nama": "Laundry Sarung Tenun",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4411,7 +4411,7 @@
   },
   {
     "slug": "sarung-tenun-anak",
-    "nama": "Sarung Tenun Anak",
+    "nama": "Laundry Sarung Tenun Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4426,7 +4426,7 @@
   },
   {
     "slug": "sarung-vas-bunga",
-    "nama": "Sarung Vas Bunga",
+    "nama": "Laundry Sarung Vas Bunga",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4441,7 +4441,7 @@
   },
   {
     "slug": "scraf-stola-syal",
-    "nama": "Scraf/ Stola/ Syal",
+    "nama": "Laundry Scraf/ Stola/ Syal",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4456,7 +4456,7 @@
   },
   {
     "slug": "seat-belt",
-    "nama": "Seat Belt",
+    "nama": "Laundry Seat Belt",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4471,7 +4471,7 @@
   },
   {
     "slug": "selendang",
-    "nama": "Selendang",
+    "nama": "Laundry Selendang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4486,7 +4486,7 @@
   },
   {
     "slug": "selendang-anak",
-    "nama": "Selendang Anak",
+    "nama": "Laundry Selendang Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4501,7 +4501,7 @@
   },
   {
     "slug": "selendang-biasa-sutra",
-    "nama": "Selendang Biasa/ Sutra",
+    "nama": "Laundry Selendang Biasa/ Sutra",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4516,7 +4516,7 @@
   },
   {
     "slug": "selimut-bayi",
-    "nama": "Selimut Bayi",
+    "nama": "Laundry Selimut Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4531,7 +4531,7 @@
   },
   {
     "slug": "selimut-handuk",
-    "nama": "Selimut Handuk",
+    "nama": Laundry "Selimut Handuk",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4546,7 +4546,7 @@
   },
   {
     "slug": "selimut-karpet",
-    "nama": "Selimut Karpet",
+    "nama": "Laundry Selimut Karpet",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4561,7 +4561,7 @@
   },
   {
     "slug": "selimut-tebal",
-    "nama": "Selimut Tebal",
+    "nama": "Laundry Selimut Tebal",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4576,7 +4576,7 @@
   },
   {
     "slug": "selimut-tikar",
-    "nama": "Selimut Tikar",
+    "nama": "Laundry Selimut Tikar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4591,7 +4591,7 @@
   },
   {
     "slug": "selimut-tipis",
-    "nama": "Selimut Tipis",
+    "nama": "Laundry Selimut Tipis",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4606,7 +4606,7 @@
   },
   {
     "slug": "selop",
-    "nama": "Selop",
+    "nama": "Laundry Selop",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4621,7 +4621,7 @@
   },
   {
     "slug": "sepatu-balap",
-    "nama": "Sepatu Balap",
+    "nama": "Laundry Sepatu Balap",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4636,7 +4636,7 @@
   },
   {
     "slug": "sepatu-balap-anak",
-    "nama": "Sepatu Balap Anak",
+    "nama": "Laundry Sepatu Balap Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4651,7 +4651,7 @@
   },
   {
     "slug": "sepatu-balet-anak",
-    "nama": "Sepatu Balet Anak",
+    "nama": "Laundry Sepatu Balet Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 15500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4666,7 +4666,7 @@
   },
   {
     "slug": "sepatu-boot",
-    "nama": "Sepatu Boot",
+    "nama": "Laundry Sepatu Boot",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4681,7 +4681,7 @@
   },
   {
     "slug": "sepatu-olahraga",
-    "nama": "Sepatu Olahraga",
+    "nama": "Laundry Sepatu Olahraga",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4696,7 +4696,7 @@
   },
   {
     "slug": "sepatu-olahraga-anak",
-    "nama": "Sepatu Olahraga Anak",
+    "nama": "Laundry Sepatu Olahraga Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4711,7 +4711,7 @@
   },
   {
     "slug": "sepatu-pantofel-kulit",
-    "nama": "Sepatu Pantofel/ Kulit",
+    "nama": "Laundry Sepatu Pantofel/ Kulit",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 29000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4726,7 +4726,7 @@
   },
   {
     "slug": "sepatu-pantofel-kulit-anak",
-    "nama": "Sepatu Pantofel/ Kulit Anak",
+    "nama": "Laundry Sepatu Pantofel/ Kulit Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4741,7 +4741,7 @@
   },
   {
     "slug": "sepatu-wanita-pendek",
-    "nama": "Sepatu Wanita Pendek",
+    "nama": "Laundry Sepatu Wanita Pendek",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4756,7 +4756,7 @@
   },
   {
     "slug": "sepatu-wanita-sebetis",
-    "nama": "Sepatu Wanita Sebetis",
+    "nama": "Laundry Sepatu Wanita Sebetis",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 27500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4771,7 +4771,7 @@
   },
   {
     "slug": "seragam-angkatan",
-    "nama": "Seragam Angkatan",
+    "nama": "Laundry Seragam Angkatan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 25000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4786,7 +4786,7 @@
   },
   {
     "slug": "serbet",
-    "nama": "Serbet",
+    "nama": "Laundry Serbet",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4801,7 +4801,7 @@
   },
   {
     "slug": "set-kereta-bayi",
-    "nama": "Set Kereta Bayi",
+    "nama": "Laundry Set Kereta Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 35000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4816,7 +4816,7 @@
   },
   {
     "slug": "set-pegangan-keranjang-bayi",
-    "nama": "Set Pegangan Keranjang Bayi",
+    "nama": "Laundry Set Pegangan Keranjang Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4831,7 +4831,7 @@
   },
   {
     "slug": "set-tenda-bayi",
-    "nama": "Set Tenda Bayi",
+    "nama": "Laundry Set Tenda Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 48500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4846,7 +4846,7 @@
   },
   {
     "slug": "singlet",
-    "nama": "Singlet",
+    "nama": "Laundry Singlet",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 8500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4861,7 +4861,7 @@
   },
   {
     "slug": "slayer",
-    "nama": "Slayer",
+    "nama": "Laundry Slayer",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4876,7 +4876,7 @@
   },
   {
     "slug": "sleepingbag-kantong-tidur",
-    "nama": "Sleepingbag (Kantong Tidur)",
+    "nama": "Laundry Sleepingbag (Kantong Tidur)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 48500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4891,7 +4891,7 @@
   },
   {
     "slug": "sofa-1-dudukan",
-    "nama": "Sofa (1 Dudukan)",
+    "nama": "Laundry Sofa (1 Dudukan)",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 43000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4906,7 +4906,7 @@
   },
   {
     "slug": "spon-alas-duduk-besar",
-    "nama": "Spon Alas Duduk Besar",
+    "nama": "Laundry Spon Alas Duduk Besar",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 21000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4921,7 +4921,7 @@
   },
   {
     "slug": "spon-alas-duduk-kecil",
-    "nama": "Spon Alas Duduk Kecil",
+    "nama": "Laundry Spon Alas Duduk Kecil",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4936,7 +4936,7 @@
   },
   {
     "slug": "spon-alas-duduk-sedang",
-    "nama": "Spon Alas Duduk Sedang",
+    "nama": "Laundry Spon Alas Duduk Sedang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4951,7 +4951,7 @@
   },
   {
     "slug": "sprei-polos-besar-double",
-    "nama": "Sprei Polos Besar/ Double",
+    "nama": "Laundry Sprei Polos Besar/ Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4966,7 +4966,7 @@
   },
   {
     "slug": "sprei-polos-besar-double-bayi",
-    "nama": "Sprei Polos Besar/ Double Bayi",
+    "nama": "Laundry Sprei Polos Besar/ Double Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4981,7 +4981,7 @@
   },
   {
     "slug": "sprei-polos-kecil-single",
-    "nama": "Sprei Polos Kecil/ Single",
+    "nama": "Laundry Sprei Polos Kecil/ Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -4996,7 +4996,7 @@
   },
   {
     "slug": "sprei-polos-kecil-single-bayi",
-    "nama": "Sprei Polos Kecil/ Single Bayi",
+    "nama": "Laundry Sprei Polos Kecil/ Single Bayi",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5011,7 +5011,7 @@
   },
   {
     "slug": "sprei-rempel-besar-double",
-    "nama": "Sprei Rempel Besar/ Double",
+    "nama": "Laundry Sprei Rempel Besar/ Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 20500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5026,7 +5026,7 @@
   },
   {
     "slug": "sprei-rempel-kecil-single",
-    "nama": "Sprei Rempel Kecil/ Single",
+    "nama": "Laundry Sprei Rempel Kecil/ Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5041,7 +5041,7 @@
   },
   {
     "slug": "springbed-single",
-    "nama": "Springbed Single",
+    "nama": "Laundry Springbed Single",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 108000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5056,7 +5056,7 @@
   },
   {
     "slug": "springbed-double",
-    "nama": "Springbed Double",
+    "nama": "Laundry Springbed Double",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 144000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5071,7 +5071,7 @@
   },
   {
     "slug": "stelan-baju-drumband",
-    "nama": "Stelan Baju Drumband",
+    "nama": "Laundry Stelan Baju Drumband",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5086,7 +5086,7 @@
   },
   {
     "slug": "stelan-baju-karate",
-    "nama": "Stelan Baju Karate",
+    "nama": "Laundry Stelan Baju Karate",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 39000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5101,7 +5101,7 @@
   },
   {
     "slug": "stelan-baju-karate-anak",
-    "nama": "Stelan Baju Karate Anak",
+    "nama": "Laundry Stelan Baju Karate Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5116,7 +5116,7 @@
   },
   {
     "slug": "stelan-baju-muslim-panjang",
-    "nama": "Stelan Baju Muslim Panjang",
+    "nama": "Laundry Stelan Baju Muslim Panjang",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5131,7 +5131,7 @@
   },
   {
     "slug": "stelan-baju-muslim-pendek",
-    "nama": "Stelan Baju Muslim Pendek",
+    "nama": "Laundry Stelan Baju Muslim Pendek",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5146,7 +5146,7 @@
   },
   {
     "slug": "stelan-bikini",
-    "nama": "Stelan Bikini",
+    "nama": "Laundry Stelan Bikini",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5161,7 +5161,7 @@
   },
   {
     "slug": "stelan-blazer",
-    "nama": "Stelan Blazer",
+    "nama": "Laundry Stelan Blazer",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 26500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5176,7 +5176,7 @@
   },
   {
     "slug": "stelan-blus",
-    "nama": "Stelan Blus",
+    "nama": "Laundry Stelan Blus",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 24500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5191,7 +5191,7 @@
   },
   {
     "slug": "stelan-blus-anak",
-    "nama": "Stelan Blus Anak",
+    "nama": "Laundry Stelan Blus Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5206,7 +5206,7 @@
   },
   {
     "slug": "stelan-jas",
-    "nama": "Stelan Jas",
+    "nama": "Laundry Stelan Jas",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 28000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5221,7 +5221,7 @@
   },
   {
     "slug": "stelan-jas-pria",
-    "nama": "Stelan Jas Pria",
+    "nama": "Laundry Stelan Jas Pria",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 28000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5236,7 +5236,7 @@
   },
   {
     "slug": "stelan-koko-anak",
-    "nama": "Stelan Koko Anak",
+    "nama": "Laundry Stelan Koko Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 11000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5251,7 +5251,7 @@
   },
   {
     "slug": "stelan-koko-dewasa",
-    "nama": "Stelan Koko Dewasa",
+    "nama": "Laundry Stelan Koko Dewasa",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5266,7 +5266,7 @@
   },
   {
     "slug": "stelan-landung",
-    "nama": "Stelan Landung",
+    "nama": "Laundry Stelan Landung",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5281,7 +5281,7 @@
   },
   {
     "slug": "stelan-mukena",
-    "nama": "Stelan Mukena",
+    "nama": "Laundry Stelan Mukena",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 18000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5296,7 +5296,7 @@
   },
   {
     "slug": "stelan-mukena-anak",
-    "nama": "Stelan Mukena Anak",
+    "nama": "Laundry Stelan Mukena Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 9000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5311,7 +5311,7 @@
   },
   {
     "slug": "stelan-pakaian-tidur",
-    "nama": "Stelan Pakaian Tidur",
+    "nama": "Laundry Stelan Pakaian Tidur",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 17500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5326,7 +5326,7 @@
   },
   {
     "slug": "stelan-piyama",
-    "nama": "Stelan Piyama",
+    "nama": "Laundry Stelan Piyama",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5341,7 +5341,7 @@
   },
   {
     "slug": "stelan-safari",
-    "nama": "Stelan Safari",
+    "nama": "Laundry Stelan Safari",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5356,7 +5356,7 @@
   },
   {
     "slug": "stelan-safari-anak",
-    "nama": "Stelan Safari Anak",
+    "nama": "Laundry Stelan Safari Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5371,7 +5371,7 @@
   },
   {
     "slug": "stateskop",
-    "nama": "Stateskop",
+    "nama": "Laundry Stateskop",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 14000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5386,7 +5386,7 @@
   },
   {
     "slug": "stoking",
-    "nama": "Stoking",
+    "nama": "Laundry Stoking",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 12000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5401,7 +5401,7 @@
   },
   {
     "slug": "stoking-anak",
-    "nama": "Stoking Anak",
+    "nama": "Laundry Stoking Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5416,7 +5416,7 @@
   },
   {
     "slug": "stoking-celana",
-    "nama": "Stoking Celana",
+    "nama": "Laundry Stoking Celana",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 7000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5431,7 +5431,7 @@
   },
   {
     "slug": "streples-anak",
-    "nama": "Streples Anak",
+    "nama": "Laundry Streples Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 4000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5445,8 +5445,8 @@
     ]
   },
   {
-    "slug": "surban-sorban",
-    "nama": "Surban/ Sorban",
+    "slug": "surban",
+    "nama": "Laundry Surban/ Sorban",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 6500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5461,7 +5461,7 @@
   },
   {
     "slug": "surjan",
-    "nama": "Surjan",
+    "nama": "Laundry Surjan",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 13000,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5476,7 +5476,7 @@
   },
   {
     "slug": "surjan-anak",
-    "nama": "Surjan Anak",
+    "nama": "Laundry Surjan Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 5500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
@@ -5491,7 +5491,7 @@
   },
   {
     "slug": "syal-anak",
-    "nama": "Syal Anak",
+    "nama": "Laundry Syal Anak",
     "kategori": "Layanan Laundry & Dry Cleaning",
     "harga": 3500,
     "ukuran": "1 pcs / per m2 (sesuai item)",
