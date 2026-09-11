@@ -11,11 +11,9 @@
  */
 
 const SITE_CONFIG = {
-  siteUrl: "https://laundrykiloan.github.io/semangatlaundry",
+  siteUrl: "https://laundrykiloan.github.io",
+  modulePath: "/semangatlaundry",
   siteName: "Semangat Laundry",
-
-  // Maksimal URL per file sitemap.
-  // Nilai aman untuk generator ini.
   maxUrlsPerSitemap: 45000
 };
 
