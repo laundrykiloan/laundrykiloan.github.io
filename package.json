@@ -1,0 +1,10 @@
+{
+  "name": "semangatlaundry-sitemap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatic sitemap generator for Semangat Laundry",
+  "scripts": {
+    "build": "node generate-sitemap.js",
+    "sitemap": "node generate-sitemap.js"
+  }
+}
