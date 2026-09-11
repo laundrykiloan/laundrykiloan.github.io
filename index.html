@@ -6718,10 +6718,10 @@
       const wilayahName = chain ? deepestName(chain) : null;
       let title, desc;
       if (produk && wilayahName) {
-        title = `${PHONE_DISPLAY} Jasa ${produk.nama} Di ${wilayahName} - ${BRAND}`;
-        desc = `Jasa ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
+        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} Di ${wilayahName} - ${BRAND}`;
+        desc = `Jasa laundry kiloan ${produk.nama} (${formatRupiah(produk.harga)}) profesional, melayani antar-jemput ke ${fullChainLabel(chain)}.`;
       } else if (produk) {
-        title = `${PHONE_DISPLAY} Jasa ${produk.nama} - ${BRAND}`;
+        title = `${PHONE_DISPLAY} Jasa laundry kiloan ${produk.nama} - ${BRAND}`;
         desc = produk.deskripsi;
       } else if (wilayahName) {
         title = `${PHONE_DISPLAY} Jasa Laundry Kiloan & Satuan Di ${wilayahName} - ${BRAND}`;
@@ -6742,7 +6742,7 @@
 
     function waLinkFor(produk, chain) {
       let text = `Halo ${BRAND}, saya tertarik dengan`;
-      text += produk ? ` jasa *${produk.nama}* (${formatRupiah(produk.harga)})` : ` layanan jasa laundry kiloan / satuan`;
+      text += produk ? ` jasa laundry kiloan *${produk.nama}* (${formatRupiah(produk.harga)})` : ` layanan jasa laundry kiloan / satuan`;
       if (chain && chainHasAny(chain)) text += `, untuk wilayah ${fullChainLabel(chain)}`;
       text += `. Mohon informasi lebih lanjut, terima kasih.`;
       return `https://wa.me/${PHONE}?text=${encodeURIComponent(text)}`;
@@ -6931,8 +6931,8 @@
         const wilayahCtxAda = chainHasAny(ctxWilayahChain);
         let lanjutHash = '/';
         let teks = 'Lanjutkan pencarian Anda';
-        if (produkCtx && wilayahCtxAda) { lanjutHash = urlProduk(produkCtx.slug, chainSlugs(ctxWilayahChain)); teks = `Lanjutkan melihat jasa <strong>${produkCtx.nama}</strong> untuk <strong>${deepestName(ctxWilayahChain)}</strong>`; }
-        else if (produkCtx) { lanjutHash = urlProduk(produkCtx.slug); teks = `Lanjutkan melihat jasa <strong>${produkCtx.nama}</strong>`; }
+        if (produkCtx && wilayahCtxAda) { lanjutHash = urlProduk(produkCtx.slug, chainSlugs(ctxWilayahChain)); teks = `Lanjutkan melihat jasa laundry <strong>${produkCtx.nama}</strong> untuk <strong>${deepestName(ctxWilayahChain)}</strong>`; }
+        else if (produkCtx) { lanjutHash = urlProduk(produkCtx.slug); teks = `Lanjutkan melihat jasa  laundry <strong>${produkCtx.nama}</strong>`; }
         else if (wilayahCtxAda) { lanjutHash = urlWilayah(chainSlugs(ctxWilayahChain)); teks = `Lanjutkan melihat layanan untuk <strong>${deepestName(ctxWilayahChain)}</strong>`; }
         bannerLanjut = `
           <div class="ctx-banner bg-amber-50 border-b border-amber-200 py-2.5 text-center text-xs text-amber-900">
@@ -6958,16 +6958,16 @@
                 </p>
                 <div class="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-2">
                   <a href="#jasa" onclick="scrollToId('jasa')" class="bg-brandOrange-500 hover:bg-brandOrange-600 text-white font-bold text-sm px-7 py-3.5 rounded-xl shadow-xl hover:shadow-orange-500/40 transition flex items-center gap-2">
-                    <i class="fa-solid fa-soap text-lg"></i> Lihat Layanan Jasa
+                    <i class="fa-solid fa-soap text-lg"></i> Lihat Layanan Jasa Laundry
                   </a>
                   <a href="#wilayah" onclick="scrollToId('wilayah')" class="bg-white/15 hover:bg-white/25 text-white font-bold text-sm px-6 py-3.5 rounded-xl backdrop-blur-sm border border-white/20 transition">
                     Cek Wilayah Layanan
                   </a>
                 </div>
                 <div class="grid grid-cols-3 gap-3 pt-6 border-t border-white/15 text-left">
-                  <div><div class="text-xl md:text-2xl font-black text-amber-400">Lengkap</div><div class="text-[11px] text-blue-200">Jenis Jasa</div></div>
+                  <div><div class="text-xl md:text-2xl font-black text-amber-400">Lengkap</div><div class="text-[11px] text-blue-200">Jenis Jasa Laundry</div></div>
                   <div><div class="text-xl md:text-2xl font-black text-amber-400">${WILAYAH.provinces.length || 34}</div><div class="text-[11px] text-blue-200">Provinsi Terjangkau</div></div>
-                  <div><div class="text-xl md:text-2xl font-black text-amber-400">${formatRupiah(17000)}</div><div class="text-[11px] text-blue-200">Harga Jasa Mulai</div></div>
+                  <div><div class="text-xl md:text-2xl font-black text-amber-400">${formatRupiah(17000)}</div><div class="text-[11px] text-blue-200">Harga Jasa Laundry Mulai</div></div>
                 </div>
               </div>
               <div class="lg:col-span-5">
@@ -6989,7 +6989,7 @@
               <div>
                 <span class="text-xs font-bold uppercase tracking-wider text-brandOrange-500">Pilihan Layanan</span>
                 <h2 class="text-2xl md:text-3xl font-extrabold text-royal-900 mt-1">Layanan Jasa Laundry Kiloan &amp; Satuan</h2>
-                <p class="text-xs md:text-sm text-slate-600 mt-1">Klik jasa untuk melihat detail dan memilih lokasi penjemputan.</p>
+                <p class="text-xs md:text-sm text-slate-600 mt-1">Klik jasa laundry untuk melihat detail dan memilih lokasi penjemputan.</p>
               </div>
               <span class="mt-4 md:mt-0 inline-flex items-center gap-1.5 bg-emerald-100 text-emerald-800 text-xs font-bold px-3 py-1.5 rounded-lg">
                 <i class="fa-solid fa-circle-check"></i> Bayar di Tempat / Transfer
@@ -7039,13 +7039,13 @@
         bannerKonteks = `
           <div class="ctx-banner bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-xs text-amber-900 mb-6 flex flex-wrap items-center justify-between gap-2">
             <span><i class="fa-solid fa-location-dot mr-1"></i> Wilayah aktif sebelumnya: <strong>${deepestName(wilayahCtxFallback)}</strong></span>
-            <a href="${lanjutHash}" onclick="navigate('${lanjutHash}'); return false;" class="font-bold underline hover:text-amber-700">Terapkan ke jasa ini</a>
+            <a href="${lanjutHash}" onclick="navigate('${lanjutHash}'); return false;" class="font-bold underline hover:text-amber-700">Terapkan ke jasa laundry ini</a>
           </div>`;
       }
       const lokasiTeks = chainHasAny(chain) ? `di ${fullChainLabel(chain)}` : 'ke seluruh Indonesia';
       const pickerSectionHtml = children.level < 4 ? `
         <div class="mt-8 pt-6 border-t border-slate-200">
-          <h3 class="text-xl font-bold text-royal-900 mb-3">Pilih ${children.label} untuk Jasa ${produk.nama}:</h3>
+          <h3 class="text-xl font-bold text-royal-900 mb-3">Pilih ${children.label} untuk Jasa Laundry ${produk.nama}:</h3>
           <p class="text-xs sm:text-sm text-slate-600 mb-4">${chainHasAny(chain) ? 'Lanjutkan memilih wilayah penjemputan yang lebih spesifik.' : 'Pilih provinsi Anda untuk melihat cakupan layanan antar-jemput.'}</p>
           <div id="wilayah-grid-produk" class="grid grid-cols-2 sm:grid-cols-3 gap-2.5">
             <div class="col-span-full text-center text-xs text-slate-400 py-6"><i class="fa-solid fa-spinner animate-spin mr-1"></i> Memuat data wilayah...</div>
@@ -7068,7 +7068,7 @@
             <div class="lg:col-span-8 space-y-8">
               <div>
                 <span class="inline-block bg-brandOrange-100 text-brandOrange-800 text-xs font-extrabold px-3 py-1 rounded-md uppercase tracking-wider mb-2">${produk.kategori}</span>
-                <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-royal-900 leading-tight">Jasa laundry ${produk.nama} ${chainHasAny(chain) ? '<span class="text-royal-600">' + deepestName(chain) + '</span>' : ''}</h1>
+                <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-royal-900 leading-tight">Jasa Laundry ${produk.nama} ${chainHasAny(chain) ? '<span class="text-royal-600">' + deepestName(chain) + '</span>' : ''}</h1>
                 <p class="text-sm text-slate-600 mt-3 leading-relaxed">Tersedia layanan pencucian ${lokasiTeks}. ${produk.deskripsi}</p>
               </div>
               <div class="rounded-2xl overflow-hidden shadow-lg border border-slate-200 bg-slate-100">
@@ -7099,7 +7099,7 @@
                   <div class="flex items-center gap-2"><i class="fa-solid fa-check text-emerald-500"></i> Konsultasi Gratis via WhatsApp</div>
                 </div>
                 <button onclick="window.open('${waLinkFor(produk, chain)}','_blank')" class="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 rounded-xl shadow-lg transition flex items-center justify-center gap-2 text-sm">
-                  <i class="fa-brands fa-whatsapp text-lg"></i> Order Jasa ${produk.nama}
+                  <i class="fa-brands fa-whatsapp text-lg"></i> Order Jasa Laundry ${produk.nama}
                 </button>
                 <div class="text-center pt-2"><a href="tel:${PHONE_DISPLAY}" class="text-xs text-slate-500 hover:text-royal-600 font-semibold"><i class="fa-solid fa-phone mr-1"></i> ${PHONE_DISPLAY}</a></div>
               </div>
@@ -7110,7 +7110,7 @@
             </div>
           </div>
         </div>
-        ${komponenCTA('Siap Memesan Jasa ' + produk.nama + '?', 'Konsultasikan item pencucian dan jadwal penjemputan ' + lokasiTeks + ' bersama tim kami.', waLinkFor(produk, chain))}
+        ${komponenCTA('Siap Memesan Jasa Laundry ' + produk.nama + '?', 'Konsultasikan item pencucian dan jadwal penjemputan ' + lokasiTeks + ' bersama tim kami.', waLinkFor(produk, chain))}
       `;
       document.getElementById('app-root').innerHTML = html;
       if (children.level < 4) {
@@ -7155,7 +7155,7 @@
         const lanjutHash = urlWilayah(chainSlugs(chain), produkCtxFallback.slug);
         bannerKonteks = `
           <div class="ctx-banner bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-xs text-amber-900 mb-6 flex flex-wrap items-center justify-between gap-2">
-            <span><i class="fa-solid fa-box mr-1"></i> Jasa aktif sebelumnya: <strong>${produkCtxFallback.nama}</strong></span>
+            <span><i class="fa-solid fa-box mr-1"></i> Jasa laundry aktif sebelumnya: <strong>${produkCtxFallback.nama}</strong></span>
             <a href="${lanjutHash}" onclick="navigate('${lanjutHash}'); return false;" class="font-bold underline hover:text-amber-700">Terapkan untuk wilayah ini</a>
           </div>`;
       }
@@ -7190,7 +7190,7 @@
               </div>
               <div class="prose max-w-none text-slate-700 text-sm sm:text-base leading-relaxed space-y-4">
                 ${produkAktif ? `
-                  <h3 class="text-xl font-bold text-royal-900">Jasa ${produkAktif.nama} untuk ${namaLokasi}</h3>
+                  <h3 class="text-xl font-bold text-royal-900">Jasa Laundry ${produkAktif.nama} untuk ${namaLokasi}</h3>
                   <p>${produkAktif.deskripsi}</p>
                   <div class="bg-royal-50 p-6 rounded-2xl border border-royal-100">
                     <h4 class="font-bold text-royal-900 mb-3 text-base">Manfaat &amp; Keunggulan Layanan:</h4>
@@ -7203,7 +7203,7 @@
                     <div id="${produkGridId}" class="grid grid-cols-1 sm:grid-cols-2 gap-4"></div>
                   </div>
                 ` : `
-                  <h3 class="text-xl font-bold text-royal-900">Layanan Jasa Tersedia untuk ${namaLokasi}</h3>
+                  <h3 class="text-xl font-bold text-royal-900">Layanan Jasa Laundry Tersedia untuk ${namaLokasi}</h3>
                   <p>Pilih salah satu layanan di bawah ini untuk melihat detail lengkap dan cakupan penjemputan ke ${namaLokasi}.</p>
                   <div id="${produkGridId}" class="grid grid-cols-1 sm:grid-cols-2 gap-4"></div>
                 `}
@@ -7283,7 +7283,7 @@
       document.getElementById('app-root').innerHTML = `
         <div class="max-w-2xl mx-auto px-4 py-24 text-center">
           <h2 class="text-2xl font-extrabold text-royal-900 mb-3">Halaman Tidak Ditemukan</h2>
-          <p class="text-sm text-slate-600 mb-6">Jasa atau wilayah yang Anda cari tidak tersedia atau formatnya tidak dikenali.</p>
+          <p class="text-sm text-slate-600 mb-6">Jasa laundry atau wilayah yang Anda cari tidak tersedia atau formatnya tidak dikenali.</p>
           <a href="/" onclick="navigate('/'); return false;" class="inline-block bg-royal-600 hover:bg-royal-700 text-white font-bold px-6 py-3 rounded-xl transition">Kembali ke Beranda</a>
         </div>`;
     }
