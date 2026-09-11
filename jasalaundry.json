@@ -45,8 +45,8 @@
     ]
   },
   {
-    "slug": "jasa-setrika-saja",
-    "nama": "Jasa Setrika Saja",
+    "slug": "setrika-saja",
+    "nama": "Setrika Saja",
     "kategori": "Layanan Penyetrikaan",
     "harga": 4000,
     "ukuran": "per kg (min. 3 kg)",
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "slug": "jasa-laundry-cuci-basah",
-    "nama": "Jasa Laundry Cuci Basah",
+    "slug": "laundry-cuci-basah",
+    "nama": "Laundry Cuci Basah",
     "kategori": "Layanan Laundry Kiloan",
     "harga": 3500,
     "ukuran": "per kg (min. 3 kg)",
