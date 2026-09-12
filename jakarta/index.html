@@ -166,14 +166,16 @@ Penyedia jasa laundry kiloan dan satuan profesional. Melayani pencucian higienis
 </div>
 <script>
 /* ==========================================================================
-0. GITHUB PAGES REDIRECT RECOVERY (404.html Handler)
+0. GITHUB PAGES REDIRECT RECOVERY (404.html Handler Diubah
 ========================================================================== */
 (function() {
-var redirect = sessionStorage.getItem('redirect_path');
-if (redirect) {
-sessionStorage.removeItem('redirect_path');
-window.history.replaceState(null, null, '/' + redirect);
-}
+  var redirect = sessionStorage.getItem('redirect_path');
+  if (redirect) {
+    sessionStorage.removeItem('redirect_path');
+    // Pastikan path hasil redirect digabung dengan nama repository
+    var basePath = window.location.pathname.replace(/\/$/, '');
+    window.history.replaceState(null, null, basePath + '/' + redirect);
+  }
 })();
 /* ==========================================================================
 1. KONFIGURASI
@@ -425,12 +427,13 @@ function urlProduk(produkSlug, slugArr) {
   return getBasePath() + '/' + segs.join('/');
 }
 function navigate(path) {
-const target = path ? (path.startsWith('/') ? path : '/' + path) : '/';
-if (window.location.pathname !== target) {
-window.history.pushState(null, '', target);
-renderRoute();
-}
-window.scrollTo({ top: 0, behavior: 'smooth' });
+  var base = getBasePath();
+  var target = path ? (path.startsWith('/') ? path : '/' + path) : (base || '/');
+  if (window.location.pathname !== target) {
+    window.history.pushState(null, '', target);
+    renderRoute();
+  }
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 function navigateHash(fullUrl) {
 navigate(fullUrl);
