@@ -8,7 +8,7 @@
 <meta id="page-desc" name="description" content="Jasa Laundry Kiloan Dan Satuan Sunter, Kelapa Gading, dan Kemayoran">
 <meta name="keywords" content="laundry kiloan, laundry satuan, laundry bedcover, laundry karpet, laundry springbed, laundry kiloan sunter, laundry sunter, laundry kemayoran, laundry kiloan kemayoran, laundry kelapa gading, laundry kiloan kelapa gading">
 <meta name="author" content="">
-<link id="canonical-link" rel="canonical" href="/">
+<link id="canonical-link" rel="canonical" href="./">
 <meta id="og-title" property="og:title" content="085771419529 Jasa Laundry Kiloan Dan Satuan - Bandar Laundry">
 <meta id="og-desc" property="og:description" content="Jasa Laundry Kiloan Dan Satuan Sunter, Kelapa Gading, dan Kemayoran.">
 <meta id="og-url" property="og:url" content="/">
@@ -68,7 +68,7 @@ transition: all .25s ease; font-size:1.6rem;
 <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-md shadow-md border-b border-slate-100">
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 <div class="flex justify-between items-center h-20">
-<a href="/" onclick="navigate('/'); return false;" class="flex items-center gap-3">
+<a href="./" onclick="navigate('/'); return false;" class="flex items-center gap-3">
 <div class="w-11 h-11 rounded-xl bg-royal-900 flex items-center justify-center text-white shadow-md font-extrabold text-xl">
 <i class="fa-solid fa-soap text-brandOrange-500"></i>
 </div>
@@ -78,11 +78,11 @@ transition: all .25s ease; font-size:1.6rem;
 </div>
 </a>
 <div class="hidden lg:flex items-center gap-7 text-sm font-bold text-slate-700">
-<a href="/" onclick="navigate('/'); return false;" class="hover:text-royal-600 transition py-1">Beranda</a>
-<a href="/#" onclick="scrollToId('jasa')" class="hover:text-royal-600 transition py-1">Jasa Laundry</a>
-<a href="/#wilayah" onclick="scrollToId('wilayah')" class="hover:text-royal-600 transition py-1">Wilayah Layanan</a>
-<a href="/#faq" onclick="scrollToId('faq')" class="hover:text-royal-600 transition py-1">FAQ</a>
-<a href="/#kontak" onclick="scrollToId('kontak')" class="hover:text-royal-600 transition py-1">Kontak</a>
+  <a href="./" onclick="navigate('/'); return false;" class="hover:text-royal-600 transition py-1">Beranda</a>
+  <a href="#jasa" onclick="scrollToId('jasa'); return false;" class="hover:text-royal-600 transition py-1">Jasa Laundry</a>
+  <a href="#wilayah" onclick="scrollToId('wilayah'); return false;" class="hover:text-royal-600 transition py-1">Wilayah Layanan</a>
+  <a href="#faq" onclick="scrollToId('faq'); return false;" class="hover:text-royal-600 transition py-1">FAQ</a>
+  <a href="#kontak" onclick="scrollToId('kontak'); return false;" class="hover:text-royal-600 transition py-1">Kontak</a>
 </div>
 <div class="flex items-center gap-3">
 <a href="https://wa.me/6285773009666" target="_blank" class="bg-brandOrange-500 hover:bg-brandOrange-600 text-white text-xs md:text-sm font-bold px-4 md:px-5 py-2.5 rounded-xl shadow-lg hover:shadow-orange-500/30 transition flex items-center gap-2">
@@ -166,31 +166,38 @@ Penyedia jasa laundry kiloan dan satuan profesional. Melayani pencucian higienis
 </div>
 <script>
 /* ==========================================================================
-0. GITHUB PAGES REDIRECT RECOVERY (404.html Handler Diubah
+0. GITHUB PAGES REDIRECT RECOVERY (404.html Handler)
 ========================================================================== */
 (function() {
-  var redirect = sessionStorage.getItem('redirect_path');
-  if (redirect) {
-    sessionStorage.removeItem('redirect_path');
-    // Pastikan path hasil redirect digabung dengan nama repository
-    var basePath = window.location.pathname.replace(/\/$/, '');
-    window.history.replaceState(null, null, basePath + '/' + redirect);
-  }
+var redirect = sessionStorage.getItem('redirect_path');
+if (redirect) {
+sessionStorage.removeItem('redirect_path');
+window.history.replaceState(null, null, '/' + redirect);
+}
 })();
 /* ==========================================================================
 1. KONFIGURASI
 ========================================================================== */
-const BRAND = "Bandar Laundry";
+/* ==========================================================================
+1. KONFIGURASI & BASE PATH AUTOMATION
+========================================================================== */
+const BRAND = "Laundry Kiloan";
 const PHONE = "6285773009666";
-const PHONE_DISPLAY = "085771419529";
-const MOD_PRODUK = "azmi";
+const PHONE_DISPLAY = "085773009666";
+const MOD_PRODUK = "semangatlaundry";
 const MOD_WILAYAH = "wilayah";
-const CSV_URLS = {
-provinces: "https://raw.githubusercontent.com/prodhokter/dataset-wilayah-indonesia/master/provinces.csv",
-regencies: "https://raw.githubusercontent.com/prodhokter/dataset-wilayah-indonesia/master/regencies.csv",
-districts: "https://raw.githubusercontent.com/prodhokter/dataset-wilayah-indonesia/master/districts.csv",
-villages: "https://raw.githubusercontent.com/prodhokter/dataset-wilayah-indonesia/master/villages.csv"
+
+// Otomatis mendeteksi sub-folder / repo GitHub Pages
+const getBasePath = () => {
+  const path = window.location.pathname;
+  // Jika di GitHub Pages (misal: /nama-repo/wilayah/...)
+  const segments = path.split('/').filter(Boolean);
+  if (window.location.hostname.includes('github.io') && segments.length > 0) {
+    return '/' + segments[0];
+  }
+  return '';
 };
+const BASE_PATH = getBasePath();
 /* ==========================================================================
 2. DATA PRODUK / JASA (dimuat dari file eksternal jasalaundry.json)
 ========================================================================== */
@@ -403,37 +410,14 @@ if (chain.regency) return { label: 'Kabupaten/Kota Lain', list: (WILAYAH.regenci
 if (chain.province) return { label: 'Provinsi Lain', list: WILAYAH.provinces.filter(x => x.slug !== chain.province.slug), parentChain: emptyChain() };
 return { label: null, list: [], parentChain: emptyChain() };
 }
-/* ==========================================================================
-4. ROUTING & HTML5 HISTORY API (PATH / UNTUK SEO)
-========================================================================== */
-function getBasePath() {
-  var path = window.location.pathname.split('/').filter(Boolean);
-  if (window.location.hostname.endsWith('github.io') && path.length > 0) {
-    if (path[0] !== MOD_PRODUK && path[0] !== MOD_WILAYAH) {
-      return '/' + path[0];
-    }
-  }
-  return '';
-}
 
-function urlWilayah(slugArr, produkSlug) {
-  const segs = [MOD_WILAYAH].concat(slugArr || []);
-  if (produkSlug) segs.push(produkSlug);
-  return getBasePath() + '/' + segs.join('/');
-}
-
-function urlProduk(produkSlug, slugArr) {
-  const segs = [MOD_PRODUK, produkSlug].concat(slugArr || []);
-  return getBasePath() + '/' + segs.join('/');
-}
 function navigate(path) {
-  var base = getBasePath();
-  var target = path ? (path.startsWith('/') ? path : '/' + path) : (base || '/');
-  if (window.location.pathname !== target) {
-    window.history.pushState(null, '', target);
-    renderRoute();
-  }
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+const target = path ? (path.startsWith('/') ? path : '/' + path) : '/';
+if (window.location.pathname !== target) {
+window.history.pushState(null, '', target);
+renderRoute();
+}
+window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 function navigateHash(fullUrl) {
 navigate(fullUrl);
@@ -447,17 +431,7 @@ document.getElementById('mobile-nav').classList.toggle('hidden');
 }
 window.addEventListener('popstate', renderRoute);
 function getSegments() {
-  var segs = window.location.pathname.split('/').filter(Boolean);
-  // Jika berjalan di subfolder GitHub Pages (repo sekunder),
-  // hapus elemen pertama yang merupakan nama repository
-  if (window.location.hostname.endsWith('github.io') && segs.length > 0) {
-    var repoName = window.location.pathname.split('/')[1];
-    // Pastikan segmen pertama bukan nama modul resmi
-    if (repoName !== MOD_PRODUK && repoName !== MOD_WILAYAH) {
-      segs.shift();
-    }
-  }
-  return segs;
+return window.location.pathname.split('/').filter(Boolean);
 }
 function parseWilayahSegments(segs) {
 const chain = emptyChain();
